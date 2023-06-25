@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mnknaveen1
+- 👋 Hi, I’m @naveen
 - 👀 I’m interested in ethicalhacking
 - 🌱 I’m currently learning html,css and javascript
 - 💞️ I’m looking for those who are like to learning with dudes all over the world. 
